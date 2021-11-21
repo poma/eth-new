@@ -1,15 +1,13 @@
 {
-  "name": "new-eth",
-  "version": "1.0.0",
+  "name": "eth-new",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "bin": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web3": "^1.2.6"
+    "ethers": "^5.5.1"
   }
 }
